@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ConfectioneryApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/pink_A200</item>
+        <item name="colorOnPrimary">@color/chocolate_brown</item>
+        <item name="colorSecondary">@color/creamy_yellow</item>
+        <item name="colorOnSecondary">@color/chocolate_brown</item> </style>
+
+    <style name="Theme.ConfectioneryApp" parent="Base.Theme.ConfectioneryApp" />
+</resources>

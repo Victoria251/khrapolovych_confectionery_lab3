@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConfectioneryApp</string>
+    <string name="background_dessert_pattern">Фон з візерунком десертів</string>
+    <string name="add_dessert_button">Додати десерт</string>
+</resources>
